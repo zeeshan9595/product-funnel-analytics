@@ -1,0 +1,504 @@
+{
+ "ga4_funnel": [
+  {
+   "step": "Visit",
+   "users": 267116,
+   "% of visitors": 100,
+   "step conversion %": 0
+  },
+  {
+   "step": "View item",
+   "users": 61252,
+   "% of visitors": 22.93,
+   "step conversion %": 22.93
+  },
+  {
+   "step": "Add to cart",
+   "users": 11114,
+   "% of visitors": 4.16,
+   "step conversion %": 18.14
+  },
+  {
+   "step": "Checkout",
+   "users": 4167,
+   "% of visitors": 1.56,
+   "step conversion %": 37.49
+  },
+  {
+   "step": "Payment info",
+   "users": 2903,
+   "% of visitors": 1.09,
+   "step conversion %": 69.67
+  },
+  {
+   "step": "Purchase",
+   "users": 2356,
+   "% of visitors": 0.88,
+   "step conversion %": 81.16
+  }
+ ],
+ "ga4_device": [
+  {
+   "segment": "desktop",
+   "visitors": 156943,
+   "View item": 23,
+   "Add to cart": 18.07,
+   "Checkout": 37.27,
+   "Payment info": 69.62,
+   "Purchase": 80.63,
+   "visit→purchase %": 0.86,
+   "revenue per visitor $": 1.34
+  },
+  {
+   "segment": "mobile",
+   "visitors": 107136,
+   "View item": 22.81,
+   "Add to cart": 18.31,
+   "Checkout": 37.83,
+   "Payment info": 69.77,
+   "Purchase": 81.93,
+   "visit→purchase %": 0.89,
+   "revenue per visitor $": 1.35
+  },
+  {
+   "segment": "tablet",
+   "visitors": 6075,
+   "View item": 23.35,
+   "Add to cart": 17.26,
+   "Checkout": 37.19,
+   "Payment info": 68.89,
+   "Purchase": 80.65,
+   "visit→purchase %": 0.82,
+   "revenue per visitor $": 1.24
+  }
+ ],
+ "ga4_medium": [
+  {
+   "segment": "organic",
+   "visitors": 98750,
+   "View item": 21.76,
+   "Add to cart": 16.66,
+   "Checkout": 36.18,
+   "Payment info": 68.43,
+   "Purchase": 80.68,
+   "visit→purchase %": 0.72,
+   "revenue per visitor $": 1.02
+  },
+  {
+   "segment": "(none)",
+   "visitors": 63640,
+   "View item": 22.51,
+   "Add to cart": 18.66,
+   "Checkout": 36.32,
+   "Payment info": 68.05,
+   "Purchase": 79.82,
+   "visit→purchase %": 0.82,
+   "revenue per visitor $": 1.22
+  },
+  {
+   "segment": "<Other>",
+   "visitors": 44725,
+   "View item": 20.59,
+   "Add to cart": 16.47,
+   "Checkout": 35.54,
+   "Payment info": 62.94,
+   "Purchase": 81.07,
+   "visit→purchase %": 0.61,
+   "revenue per visitor $": 0.81
+  },
+  {
+   "segment": "referral",
+   "visitors": 42382,
+   "View item": 25.39,
+   "Add to cart": 19.64,
+   "Checkout": 40.1,
+   "Payment info": 72.12,
+   "Purchase": 81.83,
+   "visit→purchase %": 1.16,
+   "revenue per visitor $": 1.87
+  },
+  {
+   "segment": "cpc",
+   "visitors": 13428,
+   "View item": 20.29,
+   "Add to cart": 15.65,
+   "Checkout": 36,
+   "Payment info": 62.09,
+   "Purchase": 83.16,
+   "visit→purchase %": 0.59,
+   "revenue per visitor $": 0.83
+  },
+  {
+   "segment": "(data deleted)",
+   "visitors": 7229,
+   "View item": 50.15,
+   "Add to cart": 27.49,
+   "Checkout": 44.08,
+   "Payment info": 84.42,
+   "Purchase": 83.33,
+   "visit→purchase %": 3.87,
+   "revenue per visitor $": 7.86
+  }
+ ],
+ "ga4_country": [
+  {
+   "segment": "United States",
+   "visitors": 118493,
+   "View item": 23.01,
+   "Add to cart": 18.35,
+   "Checkout": 37.22,
+   "Payment info": 69.04,
+   "Purchase": 83.08,
+   "visit→purchase %": 0.89,
+   "revenue per visitor $": 1.36
+  },
+  {
+   "segment": "India",
+   "visitors": 25367,
+   "View item": 23.13,
+   "Add to cart": 17.83,
+   "Checkout": 36.59,
+   "Payment info": 69.84,
+   "Purchase": 78.79,
+   "visit→purchase %": 0.82,
+   "revenue per visitor $": 1.38
+  },
+  {
+   "segment": "Canada",
+   "visitors": 20268,
+   "View item": 23.22,
+   "Add to cart": 19.3,
+   "Checkout": 37.97,
+   "Payment info": 68.62,
+   "Purchase": 80.77,
+   "visit→purchase %": 0.93,
+   "revenue per visitor $": 1.62
+  },
+  {
+   "segment": "United Kingdom",
+   "visitors": 8527,
+   "View item": 23.03,
+   "Add to cart": 17.77,
+   "Checkout": 36.52,
+   "Payment info": 69.05,
+   "Purchase": 83.91,
+   "visit→purchase %": 0.86,
+   "revenue per visitor $": 1.34
+  },
+  {
+   "segment": "France",
+   "visitors": 5381,
+   "View item": 22.64,
+   "Add to cart": 16.93,
+   "Checkout": 37.25,
+   "Payment info": 71.05,
+   "Purchase": 83.33,
+   "visit→purchase %": 0.84,
+   "revenue per visitor $": 1.24
+  },
+  {
+   "segment": "Spain",
+   "visitors": 5044,
+   "View item": 22.41,
+   "Add to cart": 18.05,
+   "Checkout": 37.62,
+   "Payment info": 64.47,
+   "Purchase": 83.67,
+   "visit→purchase %": 0.81,
+   "revenue per visitor $": 1.52
+  },
+  {
+   "segment": "Germany",
+   "visitors": 4866,
+   "View item": 21.17,
+   "Add to cart": 16.88,
+   "Checkout": 40.7,
+   "Payment info": 74.29,
+   "Purchase": 71.15,
+   "visit→purchase %": 0.76,
+   "revenue per visitor $": 1.09
+  },
+  {
+   "segment": "China",
+   "visitors": 4620,
+   "View item": 22.98,
+   "Add to cart": 19.73,
+   "Checkout": 35.27,
+   "Payment info": 57.53,
+   "Purchase": 85.71,
+   "visit→purchase %": 0.78,
+   "revenue per visitor $": 1.43
+  }
+ ],
+ "ga4_tests": [
+  {
+   "label": "Visit → purchase",
+   "a": "desktop",
+   "b": "mobile",
+   "rate_a": 0.008675531263495092,
+   "rate_b": 0.008965393580778197,
+   "p": 0.4359397436099758
+  },
+  {
+   "label": "Payment info → Purchase",
+   "a": "desktop",
+   "b": "mobile",
+   "rate_a": 0.8063359234907352,
+   "rate_b": 0.8193493150684932,
+   "p": 0.38269077515509986
+  }
+ ],
+ "ga4_time_to_convert": {
+  "<1h": 1203,
+  "1–6h": 244,
+  "6–24h": 142,
+  "1–3d": 174,
+  "3–7d": 159,
+  ">7d": 434
+ },
+ "ga4_kpis": {
+  "visitors": 267116,
+  "buyers": 2356,
+  "conversion_pct": 0.87,
+  "revenue": 362165,
+  "aov": 86.29,
+  "same_session_pct": 51.1
+ },
+ "app_funnel": [
+  {
+   "step": "Install",
+   "users": 4319,
+   "% of installs": 100,
+   "step conversion %": 0
+  },
+  {
+   "step": "Started a level",
+   "users": 2055,
+   "% of installs": 47.58,
+   "step conversion %": 47.58
+  },
+  {
+   "step": "Completed a level",
+   "users": 1178,
+   "% of installs": 27.27,
+   "step conversion %": 57.32
+  },
+  {
+   "step": "Came back another day",
+   "users": 719,
+   "% of installs": 16.65,
+   "step conversion %": 61.04
+  },
+  {
+   "step": "In-app purchase",
+   "users": 3,
+   "% of installs": 0.07,
+   "step conversion %": 0.42
+  }
+ ],
+ "app_retention": {
+  "cohorts": [
+   "02 Jul",
+   "09 Jul",
+   "16 Jul",
+   "23 Jul",
+   "30 Jul",
+   "06 Aug",
+   "13 Aug",
+   "20 Aug",
+   "27 Aug",
+   "03 Sep",
+   "10 Sep",
+   "17 Sep",
+   "24 Sep"
+  ],
+  "weeks": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "values": [
+   [
+    100,
+    26.3,
+    17.1,
+    15.1,
+    6.8,
+    7.8,
+    6.3,
+    3.9,
+    5.4
+   ],
+   [
+    100,
+    24,
+    14.6,
+    12,
+    11.2,
+    10.9,
+    9.4,
+    6,
+    3.7
+   ],
+   [
+    100,
+    27.1,
+    16.6,
+    10.9,
+    9.3,
+    8.1,
+    4.9,
+    3.6,
+    2.4
+   ],
+   [
+    100,
+    28.3,
+    18.2,
+    13.8,
+    10.5,
+    8.5,
+    5.7,
+    2.4,
+    2.4
+   ],
+   [
+    100,
+    19.6,
+    12.6,
+    10.7,
+    8.6,
+    4.9,
+    3.7,
+    3.5,
+    4.2
+   ],
+   [
+    100,
+    25.7,
+    13.5,
+    10.6,
+    7.1,
+    6.4,
+    3.9,
+    3.5,
+    2.9
+   ],
+   [
+    100,
+    27.3,
+    13.2,
+    7.4,
+    5.8,
+    3.7,
+    3.7,
+    3.7,
+    null
+   ],
+   [
+    100,
+    18.8,
+    10,
+    7.5,
+    4.2,
+    4.2,
+    2.9,
+    null,
+    null
+   ],
+   [
+    100,
+    13.7,
+    10.1,
+    5.9,
+    8.5,
+    4.2,
+    null,
+    null,
+    null
+   ],
+   [
+    100,
+    16.6,
+    10.7,
+    8,
+    0.5,
+    null,
+    null,
+    null,
+    null
+   ],
+   [
+    100,
+    16.9,
+    9.7,
+    2.5,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   [
+    99.6,
+    21.9,
+    4.5,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   [
+    100,
+    13.4,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  ]
+ },
+ "app_aha": [
+  {
+   "band": "0",
+   "users": 1775,
+   "week2": 10.9
+  },
+  {
+   "band": "1–2",
+   "users": 961,
+   "week2": 13.4
+  },
+  {
+   "band": "3–5",
+   "users": 748,
+   "week2": 18.2
+  },
+  {
+   "band": "6–10",
+   "users": 494,
+   "week2": 24.1
+  },
+  {
+   "band": "11+",
+   "users": 341,
+   "week2": 23.8
+  }
+ ],
+ "app_kpis": {
+  "installs": 4319,
+  "avg_w1": 21.5,
+  "avg_w4": 7.3
+ }
+}

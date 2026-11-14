@@ -17,7 +17,7 @@
 1. **Closed funnel** — visit → view item → add to cart → checkout → payment → purchase; a user counts only if every earlier step happened first.
 2. **Segment diagnosis** — step conversion by device, channel and country, to find *where* and *for whom* the funnel breaks.
 3. **Significance test** — two-proportion z-tests on the desktop vs mobile gap, overall and at the step where the gap is largest.
-4. **Time to convert** — share of buyers who purchase in one sitting vs come back later.
+4. **Time to convert** — share of buyers who purchase within one hour of their first product view vs come back later (a one-hour window from first view, not a GA4 session).
 5. **App activation funnel** — install → first level → completed level → returned another day → in-app purchase.
 6. **Weekly retention cohorts** — heatmap by install week.
 7. **Activation vs retention** — week-2 retention by day-0 activity (the "aha moment" question).
